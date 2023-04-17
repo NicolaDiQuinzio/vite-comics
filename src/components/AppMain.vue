@@ -3,7 +3,7 @@
  <section >
     <div class="jumbotron h-jumbotron position-relative ">
         <div>
-                <button class="text-white bg-primary btn btn-jumbo"> CURRENT SERIES </button>
+                <button class="text-white bg-primary btn btn-jumbo ">CURRENT SERIES</button>
         </div>
     </div>  
 </section>
